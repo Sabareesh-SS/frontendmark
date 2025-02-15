@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
+import "./../styles/markentry.css";
 
-// import "./MarkEntry.css";
    
 const MarkEntry = () => {
   const [marks, setMarks] = useState({
